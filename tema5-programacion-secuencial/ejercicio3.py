@@ -1,3 +1,6 @@
+##Leer por teclado dos numeros y calcular la suma y multiplicacion de los mismos.
+##Mostrar los resultados por pantalla
+
 num1 = int(input("Ingrese numero 1: "))
 num2 = int(input("Ingrese numero 2: "))
 
