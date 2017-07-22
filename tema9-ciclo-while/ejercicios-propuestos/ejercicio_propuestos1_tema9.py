@@ -1,3 +1,8 @@
+'''
+Escribir un programa que solicite ingresar 10 notas de alumnos y nos informe
+cuántos tienen notas mayores o iguales a 7 y cuántos menores.
+'''
+
 notas_mayores = 0
 notas_menores = 0
 i = 1
